@@ -16,7 +16,7 @@ other than its owner. It runs on one personal computer.
 David Knapp, operating the YouTube channel
 [GTA 6 Viral Moments](https://www.youtube.com/channel/UCTyGxG-QYWMuPqSobydMxog).
 
-Contact: ddresler20@gmail.com
+Contact: dknapptravels@gmail.com
 
 ## Use of YouTube API Services
 
@@ -113,4 +113,4 @@ updated.
 
 ## Contact
 
-Questions about this policy: ddresler20@gmail.com
+Questions about this policy: dknapptravels@gmail.com

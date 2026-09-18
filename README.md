@@ -5,7 +5,7 @@ vertical videos and uploads them to a single YouTube channel.
 
 **Channel:** [GTA 6 Viral Moments](https://www.youtube.com/channel/UCTyGxG-QYWMuPqSobydMxog)
 
-**Operator:** David Knapp · ddresler20@gmail.com
+**Operator:** David Knapp · dknapptravels@gmail.com
 
 ---
 
